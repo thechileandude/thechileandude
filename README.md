@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, my name is Juan Pablo Figueroa.
 I'm a career-switcher from 20 years in hospitality, now pursuing a career in machine learning and AI engineering.
 
 🛠 Currently learning: Python, Machine Learning (Codecademy + Coursera)
