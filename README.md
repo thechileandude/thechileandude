@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 👋 Hi, I'm [Your Name]
+I'm a career-switcher from 20 years in hospitality, now pursuing a career in machine learning and AI engineering.
+
+🛠 Currently learning: Python, Machine Learning (Codecademy + Coursera)
+🔭 Projects: Rental prediction, delivery optimization
+🎯 Goal: Land a remote ML/AI role in 2025 and eventually pursue a PhD
